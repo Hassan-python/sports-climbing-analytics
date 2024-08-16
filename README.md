@@ -1,2 +1,2 @@
-# sports_climbing_analytics
+# sports-climbing-analytics
 I make it to analyze sports climbing and improve player movement.
